@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cosmostdbtiernok", "cosmostdbtiernok\cosmostdbtiernok.csproj", "{2DAF2A13-A117-45D1-9AB3-5E915B5A3CBF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{A54BAE53-66E8-44A3-933E-A544CB5DD1EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2DAF2A13-A117-45D1-9AB3-5E915B5A3CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2DAF2A13-A117-45D1-9AB3-5E915B5A3CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2DAF2A13-A117-45D1-9AB3-5E915B5A3CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2DAF2A13-A117-45D1-9AB3-5E915B5A3CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A54BAE53-66E8-44A3-933E-A544CB5DD1EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A54BAE53-66E8-44A3-933E-A544CB5DD1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A54BAE53-66E8-44A3-933E-A544CB5DD1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A54BAE53-66E8-44A3-933E-A544CB5DD1EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
